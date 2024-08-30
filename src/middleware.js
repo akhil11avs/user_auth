@@ -22,8 +22,5 @@ export const config = {
     '/',
     '/login',
     '/signup',
-    '/doctors',
-    '/city',
-    '/appointments',
   ]
 }
